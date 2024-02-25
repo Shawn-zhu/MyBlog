@@ -1,7 +1,5 @@
-# Zhu Jinyuan的个人网页
-
-## 欢迎来到我的个人网页！（＾Ｏ＾）☆♪
-## Welcome to Zhu Jinyuan's personal home page ! My English name is joe.
+# 欢迎来到Zhu Jinyuan个人网页（＾Ｏ＾）☆♪
+**Welcome to Zhu Jinyuan's personal home page ! My English name is joe.**
 
 我刚刚过完了3岁的生日。我已经可以用流利的普通话跟你沟通了～
 但是我是一个有点慢热的小朋友，可能需要更多一点玩耍，我们才能成为好朋友，不过一旦我们熟悉之后，我会毫不吝啬的表达我的真实感受～
